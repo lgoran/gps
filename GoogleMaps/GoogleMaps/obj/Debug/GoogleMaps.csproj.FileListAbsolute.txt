@@ -1,0 +1,10 @@
+C:\Users\Goran\source\repos\GoogleMaps\GoogleMaps\bin\Debug\GoogleMaps.exe.config
+C:\Users\Goran\source\repos\GoogleMaps\GoogleMaps\bin\Debug\GoogleMaps.exe
+C:\Users\Goran\source\repos\GoogleMaps\GoogleMaps\bin\Debug\GoogleMaps.pdb
+C:\Users\Goran\source\repos\GoogleMaps\GoogleMaps\obj\Debug\GoogleMaps.csprojAssemblyReference.cache
+C:\Users\Goran\source\repos\GoogleMaps\GoogleMaps\obj\Debug\GoogleMaps.Form1.resources
+C:\Users\Goran\source\repos\GoogleMaps\GoogleMaps\obj\Debug\GoogleMaps.Properties.Resources.resources
+C:\Users\Goran\source\repos\GoogleMaps\GoogleMaps\obj\Debug\GoogleMaps.csproj.GenerateResource.cache
+C:\Users\Goran\source\repos\GoogleMaps\GoogleMaps\obj\Debug\GoogleMaps.exe
+C:\Users\Goran\source\repos\GoogleMaps\GoogleMaps\obj\Debug\GoogleMaps.pdb
+C:\Users\Goran\source\repos\GoogleMaps\GoogleMaps\obj\Debug\GoogleMaps.csproj.CoreCompileInputs.cache
